@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shared Preferneces 2</string>
+
+    <string name="user_name">h</string>
+
+    <string name="password_user">h</string>
+
+    <string name="login_preference">com.digicon_valley.sharedpreferneces2_login_preference</string>
+
+    <string name="login_status_preference">com.digicon_valley.sharedpreferneces2_login_status_preference</string>
+</resources>
